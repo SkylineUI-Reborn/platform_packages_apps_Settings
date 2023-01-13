@@ -524,4 +524,9 @@ public class Settings extends SettingsActivity {
      * Activity for WirelessDebuggingActivity
      */
     public static class WirelessDebuggingActivity extends SettingsActivity { /* empty */ }
+
+   /**
+     * Activity for SkylineUI Workstation
+     */
+    public static class StartLabActivity extends SettingsActivity {}
 }
